@@ -1,0 +1,21 @@
+table{
+    margin:auto auto;
+    width:600px;
+    background-color:orange;
+    color:white;
+    border:3px solid black;
+    font-family:"Berlin Sans FB";
+    padding:15px;
+}
+input,select{
+    border:2px solid black;
+    border-radius: 8px;
+}
+
+#reponse{
+    margin:auto auto;
+    width:600px;
+    border:3px solid black;
+    padding:15px;
+
+}
